@@ -10,7 +10,7 @@ Turn lecture audio into:
 
 ## Setup
 
-1. Install Python 3.10+
+1. Install Python 3.10 or 3.11
 2. Install FFmpeg (for audio processing)
 3. Install dependencies:
 pip install -r requirements.txt
