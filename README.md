@@ -21,10 +21,8 @@ https://ollama.com
 5. Pull model:
 ollama pull llama3.2
 
-6. Start Ollama:
-ollama serve
-
-7. Run app:
+6. Start Ollama and Run app:
+ollama serve &
 streamlit run app.py
 
 Open http://localhost:8501 in your browser.
