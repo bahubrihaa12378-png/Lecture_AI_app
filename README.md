@@ -26,3 +26,4 @@ ollama serve &
 streamlit run app.py
 
 Open http://localhost:8501 in your browser.
+7. Added a small sample audio file to github to test 
